@@ -1,0 +1,515 @@
+{
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:root": {
+    "criteria": {
+      "sample_trigger": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2024-07-28 02:52:51 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2024-07-28 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-07-28 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-07-28 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2024-07-28 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-07-28 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-07-28 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2024-07-28 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-07-28 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-07-28 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "monsters_and_girls:monsters_and_girls_update": {
+    "criteria": {
+      "monsters_and_girls_update": "2024-07-28 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "coniferous_forest": "2024-07-28 02:52:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "muskeg": "2024-07-28 03:24:04 +0000",
+      "snowblossom_grove": "2024-07-28 04:06:42 +0000",
+      "cold_desert": "2024-07-28 03:28:16 +0000",
+      "maple_woods": "2024-07-28 04:07:32 +0000",
+      "field": "2024-07-28 04:10:01 +0000",
+      "coniferous_forest": "2024-07-28 02:52:53 +0000",
+      "seasonal_orchard": "2024-07-28 02:57:48 +0000",
+      "seasonal_forest": "2024-07-28 03:02:59 +0000",
+      "fir_clearing": "2024-07-28 02:55:40 +0000",
+      "pumpkin_patch": "2024-07-28 03:09:28 +0000",
+      "snowy_coniferous_forest": "2024-07-28 03:24:03 +0000",
+      "snowy_fir_clearing": "2024-07-28 03:24:45 +0000",
+      "snowy_maple_woods": "2024-07-28 04:06:22 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-07-28 02:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-07-28 02:54:43 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2024-07-28 02:55:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-07-28 02:55:51 +0000"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2024-07-28 02:56:05 +0000"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2024-07-28 02:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2024-07-28 03:24:29 +0000",
+      "minecraft:beach": "2024-07-28 03:14:11 +0000",
+      "minecraft:river": "2024-07-28 02:56:56 +0000",
+      "minecraft:snowy_plains": "2024-07-28 03:30:46 +0000",
+      "minecraft:snowy_taiga": "2024-07-28 03:25:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-07-28 02:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-07-28 03:03:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "blackberry_seed": "2024-07-28 03:20:19 +0000",
+      "blackbean_seed": "2024-07-28 03:03:59 +0000",
+      "radish_seed": "2024-07-28 03:07:33 +0000",
+      "elderberry_seed": "2024-07-28 03:04:01 +0000",
+      "blueberry_seed": "2024-07-28 03:03:44 +0000",
+      "tomato_seed": "2024-07-28 03:18:29 +0000",
+      "grape_seed": "2024-07-28 03:06:39 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "blackbean_seed": "2024-07-28 03:03:59 +0000",
+      "elderberry_seed": "2024-07-28 03:04:01 +0000",
+      "tomato_seed": "2024-07-28 03:18:29 +0000",
+      "chile_pepper_seed": "2024-07-28 03:17:07 +0000",
+      "blueberry_seed": "2024-07-28 03:03:44 +0000",
+      "grape_seed": "2024-07-28 03:06:39 +0000",
+      "barley_seed": "2024-07-28 04:08:27 +0000",
+      "blackberry_seed": "2024-07-28 03:20:19 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-07-28 03:03:44 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2024-07-28 03:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-07-28 03:06:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-07-28 03:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2024-07-28 04:02:30 +0000",
+      "bread": "2024-07-28 03:27:37 +0000",
+      "carrot": "2024-07-28 03:07:54 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-07-28 03:15:13 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-07-28 03:15:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "chile_pepper_seed": "2024-07-28 03:17:07 +0000",
+      "barley_seed": "2024-07-28 04:08:27 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2024-07-28 03:18:53 +0000"
+    },
+    "done": true
+  },
+  "verdantvibes:horticultural_hoarder": {
+    "criteria": {
+      "find_periwinkle": "2024-07-28 03:20:28 +0000"
+    },
+    "done": false
+  },
+  "verdantvibes:botanical_beginnings": {
+    "criteria": {
+      "find_plant": "2024-07-28 03:20:28 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-07-28 03:29:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2024-07-28 03:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-07-28 03:30:02 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2024-07-28 03:31:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2024-07-28 03:31:07 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/bookstack": {
+    "criteria": {
+      "obtain": "2024-07-28 03:31:14 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2024-07-28 03:34:11 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2024-07-28 03:42:37 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2024-07-28 03:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-07-28 03:42:37 +0000"
+    },
+    "done": true
+  },
+  "man_of_many_planes:misc/expanded_aircraftery": {
+    "criteria": {
+      "has_item": "2024-07-28 03:42:37 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2024-07-28 03:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-07-28 03:42:44 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/light": {
+    "criteria": {
+      "obtain": "2024-07-28 03:44:58 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2024-07-28 03:45:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2024-07-28 03:53:16 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-07-28 04:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-07-28 04:14:02 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-07-28 04:28:54 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-07-28 04:29:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2024-07-28 04:32:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-07-28 04:32:36 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
